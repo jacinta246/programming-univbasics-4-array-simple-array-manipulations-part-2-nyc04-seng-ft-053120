@@ -1,1 +1,3 @@
-def using_concat (one, two)
+def using_concat
+
+end
